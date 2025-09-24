@@ -52,4 +52,4 @@ jobs:
           app-name: 'mymaven24092025'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00315BDE87A749C5BD389260AD0F1FF6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E73A4F9E2AA24C15BC8316E2D283A5CA }}
